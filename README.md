@@ -24,5 +24,5 @@
 ---
 
 ### 📫 Bana Ulaşın (Connect with me)
-[**LinkedIn**]([link](https://www.linkedin.com/in/amin-azizzade/)) | [**Email**](mailto:amin.azizzade004@gmail.com)
+[**LinkedIn**](https://www.linkedin.com/in/amin-azizzade/) | [**Email**](mailto:amin.azizzade004@gmail.com)
 
