@@ -26,9 +26,3 @@
 ### 📫 Bana Ulaşın (Connect with me)
 [**LinkedIn**]([link](https://www.linkedin.com/in/amin-azizzade/)) | [**Email**](mailto:amin.azizzade004@gmail.com)
 
----
-
-<p align="left">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=[kullanici-adi]&show_icons=true&theme=radical" />
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=[kullanici-adi]&layout=compact&theme=radical" />
-</p>
