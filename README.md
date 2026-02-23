@@ -1,4 +1,4 @@
-# 👋 Selam, Ben [Adın Soyadın]
+# 👋 Selam, Ben Amin Azizzade
 
 **4. Sınıf Bilgisayar Mühendisliği Öğrencisi @ Ege Üniversitesi**
 Ölçeklenebilir Full-Stack sistemler, Veritabanı Mimarileri ve Büyük Veri (Big Data) üzerine odaklanıyorum.
@@ -24,7 +24,7 @@
 ---
 
 ### 📫 Bana Ulaşın (Connect with me)
-[**LinkedIn**](link) | [**Email**](mailto:eposta@adresiniz.com)
+[**LinkedIn**]([link](https://www.linkedin.com/in/amin-azizzade/)) | [**Email**](mailto:amin.azizzade004@gmail.com)
 
 ---
 
