@@ -16,10 +16,10 @@
 
 ### 🌟 Öne Çıkan Projeler (Top Projects)
 
-* **[Personalized Learning Hub](link)** - Rol tabanlı (Admin/Tutor/Student) e-öğrenme platformu. **React & Spring Boot** monorepo mimarisi ve DTO pattern ile geliştirildi.
-* **[Airline Sentiment Pipeline](link)** - Twitter verileri üzerinden duygu analizi yapan, **Spark (Batch)** ve **Flink (Stream)** entegrasyonuna sahip uçtan uca veri hattı.
-* **[E-Commerce Optimized Database](link)** - Amazon, Trendyol ve Hepsiburada sistemleri analiz edilerek tasarlanmış; **EER (Extended Entity-Relationship)** ve **DDL** scriptleri içeren ölçeklenebilir, birleşik ilişkisel veritabanı mimarisi.
-* **[Travel & Bus Reservation](link)** - Modern Android seyahat uygulaması. **MVVM** mimarisi ve **Offline-first (Room DB)** yaklaşımıyla inşa edildi.
+* **[Personalized Learning Hub](https://github.com/AminAzizzade/personalized-learning-hub)** - Rol tabanlı (Admin/Tutor/Student) e-öğrenme platformu. **React & Spring Boot** monorepo mimarisi ve DTO pattern ile geliştirildi.
+* **[Airline Sentiment Pipeline](https://github.com/AminAzizzade/bigdata-project)** - Twitter verileri üzerinden duygu analizi yapan, **Spark (Batch)** ve **Flink (Stream)** entegrasyonuna sahip uçtan uca veri hattı.
+* **[E-Commerce Optimized Database](https://github.com/AminAzizzade/E_Commerce-Optimized-Database)** - Amazon, Trendyol ve Hepsiburada sistemleri analiz edilerek tasarlanmış; **EER (Extended Entity-Relationship)** ve **DDL** scriptleri içeren ölçeklenebilir, birleşik ilişkisel veritabanı mimarisi.
+* **[Travel & Bus Reservation](https://github.com/AminAzizzade/travel-reservation-app)** - Modern Android seyahat uygulaması. **MVVM** mimarisi ve **Offline-first (Room DB)** yaklaşımıyla inşa edildi.
 
 ---
 
